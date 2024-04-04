@@ -7,6 +7,7 @@ The ideal outcome of this project is:
 - The creation of new, accurate bi-directional machine translation models for English - Spanish, and English - Vietnamese focused on grievance data.
 
 - Updated accuracy
+
 Epoch 1/30
 1315/1315 ━━━━━━━━━━━━━━━━━━━━ 96s 60ms/step - accuracy: 0.7120 - loss: 2.2110 - val_accuracy: 0.8057 - val_loss: 1.2232
 Epoch 2/30
